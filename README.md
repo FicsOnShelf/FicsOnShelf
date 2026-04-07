@@ -3,7 +3,7 @@
 
 ---
 ### 💻 Contact
- <a href="https://www.linkedin.com/in/ana-j%C3%BAlia-pereira-silva-92a59a364/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+ <a href="https://www.linkedin.com/in/fics-on-shelf-b468ab401/ " target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  <a href = "mailto:ficsonshelf@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://x.com/FicsOnShelf" target="_blank"> ![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)
 >
