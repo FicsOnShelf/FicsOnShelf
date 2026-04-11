@@ -11,12 +11,12 @@
 
 ---
 ## 📝​ *Features*
-   - BR01 The system must allow for the centralized cataloging of fanfictions from multiple internet platforms.
+   - **BR01** The system must allow for the centralized cataloging of fanfictions from multiple internet platforms.
 
-   - BR02 The system must automate data capture (title, author, cover art) to minimize manual user effort when adding a new entry.
+   - **BR02** The system must automate data capture (title, author, cover art) to minimize manual user effort when adding a new entry.
 
-   - BR03 The company/platform must provide a reading status tracking system (Read, Reading, Want to Read, Abandoned).
+   - **BR03** The company/platform must provide a reading status tracking system (Read, Reading, Want to Read, Abandoned).
 
-   - BR04 The system must enable social interaction between users, allowing the sharing of ratings and critical reviews of the works.
+   - **BR04** The system must enable social interaction between users, allowing the sharing of ratings and critical reviews of the works.
 
-   - BR05 The platform must guarantee privacy options, allowing users to keep their reading habits hidden if they so desire.
+   - **BR05** The platform must guarantee privacy options, allowing users to keep their reading habits hidden if they so desire.
